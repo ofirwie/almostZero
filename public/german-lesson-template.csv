@@ -1,0 +1,10 @@
+German,Hebrew,English,Italian,Lesson,PartOfSpeech,Gender,Category,Subcategory,FLD1,FLD2,FLD3,FLD4,FLD5
+ich bin,אני,I am,io sono,1,verb,none,Verbs,sein,,,,,
+du bist,אתה,you are,tu sei,1,verb,none,Verbs,sein,,,,,
+er ist,הוא,he is,lui è,1,verb,none,Verbs,sein,,,,,
+wir sind,אנחנו,we are,noi siamo,1,verb,none,Verbs,sein,,,,,
+ihr seid,אתם,you are (plural),voi siete,1,verb,none,Verbs,sein,,,,,
+sie sind,הם,they are,loro sono,1,verb,none,Verbs,sein,,,,,
+Tisch,שולחן,table,tavolo,1,noun,der,Nouns,Furniture,,,,,
+Lampe,מנורה,lamp,lampada,1,noun,die,Nouns,Furniture,,,,,
+Fenster,חלון,window,finestra,1,noun,das,Nouns,Furniture,,,,,
